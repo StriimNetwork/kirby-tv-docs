@@ -20,5 +20,3 @@ Every XML in the channel must follow this structure:
 static var GAME_CODE = "HCMP";
 ```
 
-
-
