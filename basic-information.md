@@ -14,3 +14,11 @@ Every XML in the channel must follow this structure:
 </data>
 ```
 
+`code` must equal the value of `GAME_CODE` in the `ApplicationController.as` file found at `trusted` in `00000002.app.`
+
+```javascript
+static var GAME_CODE = "HCMP";
+```
+
+
+
